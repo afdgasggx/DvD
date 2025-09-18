@@ -9,8 +9,10 @@ pip install -r requirements.txt
 ```
 
 ### Download link of AnyPhotoDoc6300 benchmark dataset 
+* Google Drive
 https://drive.google.com/drive/folders/1NJZtaTh4erKFcXDcs1t1JyF2hc1EBOA3?usp=drive_link
-
+* HuggingFace
+https://huggingface.co/datasets/hanquansanren/Anyphotodoc6300
 
 
 ### How to play
