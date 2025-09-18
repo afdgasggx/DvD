@@ -7,6 +7,10 @@ pip install -r requirements.txt
 
 To run DvD model as shown above:
 
+#### pretrained model download
+https://drive.google.com/drive/folders/1RBt9t_5igAlN1BlQAkVLwJ_rZXITy_pN?usp=sharing
+
+
 #### Inference code
 ```bash
 python run_sampling.py \
