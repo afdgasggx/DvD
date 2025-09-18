@@ -1,4 +1,4 @@
-### DvD: Unleashing a Generative Paradigm for Document Dewarping via Coordinates-based Diffusion Model (under approve) 
+## DvD: Unleashing a Generative Paradigm for Document Dewarping via Coordinates-based Diffusion Model (under approve) 
 
 
 ### Quick Start
@@ -8,14 +8,15 @@ Before running the script, install the following dependencies:
 pip install -r requirements.txt
 ```
 
-#### AnyPhotoDoc6300 benchmark dataset downlink
+### Download link of AnyPhotoDoc6300 benchmark dataset 
 https://drive.google.com/drive/folders/1NJZtaTh4erKFcXDcs1t1JyF2hc1EBOA3?usp=drive_link
 
 
 
+### How to play
 To run the DVD model as shown above:
 
-#### Pretrained DvD model download link
+#### Download link of Pretrained DvD model 
 https://drive.google.com/drive/folders/1RBt9t_5igAlN1BlQAkVLwJ_rZXITy_pN?usp=sharing
 
 
