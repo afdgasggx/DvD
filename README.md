@@ -1,3 +1,6 @@
+### DvD: Unleashing a Generative Paradigm for Document Dewarping via Coordinates-based Diffusion Model (under approve) 
+
+
 ### Quick Start
 Before running the script, install the following dependencies:
 
@@ -5,9 +8,9 @@ Before running the script, install the following dependencies:
 pip install -r requirements.txt
 ```
 
-To run DvD model as shown above:
+To run the DVD model as shown above:
 
-#### pretrained model download
+#### Pretrained DvD model download link
 https://drive.google.com/drive/folders/1RBt9t_5igAlN1BlQAkVLwJ_rZXITy_pN?usp=sharing
 
 
