@@ -9,7 +9,7 @@ pip install -r requirements.txt
 ```
 
 ### Download link of AnyPhotoDoc6300 benchmark dataset 
-* HuggingFace (upload completed, we will remove the anonymity after approval)
+* HuggingFace (upload completed, we will remove the anonymity after final accept)
  ![dataset snapshot](./asset/hf.png) 
 
 
