@@ -9,14 +9,15 @@ pip install -r requirements.txt
 ```
 
 ### Download link of AnyPhotoDoc6300 benchmark dataset 
-* HuggingFace (upload completed, we will remove the anonymity after final acceptance)
- ![dataset snapshot](./asset/hf.png) 
 
-
-
-* Google Drive (still in uploading)
+Google Drive (A sample subset link for review) 
   
 https://drive.google.com/drive/folders/1NJZtaTh4erKFcXDcs1t1JyF2hc1EBOA3?usp=drive_link
+
+The full dataset had been uploaded to HuggingFace. Since the anonymity policy, we have not yet made the link public. 
+Here, we just showcase its snapshot.
+
+ ![dataset snapshot](./asset/hf.png) 
 
 
 ### How to play
