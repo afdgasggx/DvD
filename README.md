@@ -1,4 +1,4 @@
-## DvD: Unleashing a Generative Paradigm for Document Dewarping via Coordinates-based Diffusion Model (under approve) 
+## DvD: Unleashing a Generative Paradigm for Document Dewarping via Coordinates-based Diffusion Model (under approval) 
 
 
 ### Quick Start
@@ -9,7 +9,7 @@ pip install -r requirements.txt
 ```
 
 ### Download link of AnyPhotoDoc6300 benchmark dataset 
-* HuggingFace (upload completed, we will remove the anonymity after final accept)
+* HuggingFace (upload completed, we will remove the anonymity after final acceptance)
  ![dataset snapshot](./asset/hf.png) 
 
 
